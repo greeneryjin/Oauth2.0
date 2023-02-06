@@ -10,5 +10,6 @@ spring Security와 OAuth2.0 을 사용해서 카카오, 네이버에서 회원�
 - spring Boot
 - spring Security
 - H2
+- thymeleaf
 
 참고: 스프링 시큐리티 OAuth2 - Spring Boot 기반으로 개발하는 Spring Security OAuth2
